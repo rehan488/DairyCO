@@ -1,4 +1,3 @@
-test
 package Vlcc;
 
 import org.apache.bcel.ExceptionConstants;
